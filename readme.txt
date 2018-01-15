@@ -6,4 +6,4 @@ Git is a free software .
 Git is a betiful version control for system with GPL.
 Git is for our host .
 
-Create a new branch named dev .
+Create a new branch named dev .Diff is none;
